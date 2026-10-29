@@ -1,0 +1,41 @@
+{
+  "1333589023": {
+    "chat_id": 1333589023,
+    "username": "TheYoungCynic",
+    "first_name": "red",
+    "queries": [
+      {
+        "category_param": "ноутбук+asus+tuf+f17",
+        "city_slug": "krasnodar",
+        "min_price": null,
+        "max_price": null,
+        "rooms": null,
+        "query_id": "71eb813d",
+        "is_active": false,
+        "additional_params": {}
+      },
+      {
+        "category_param": "hp+игровой+ноутбук",
+        "city_slug": "moskva",
+        "min_price": null,
+        "max_price": null,
+        "rooms": null,
+        "query_id": "ad645f54",
+        "is_active": true,
+        "additional_params": {}
+      }
+    ],
+    "last_update_id": 0,
+    "is_active": true,
+    "last_notified": null,
+    "is_admin": false,
+    "settings": {
+      "notify_new": true,
+      "notify_price_change": true,
+      "interval": 60,
+      "max_price_change_percent": 10,
+      "min_price": null,
+      "max_price": null
+    }
+  }
+}
